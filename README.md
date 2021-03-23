@@ -24,11 +24,12 @@ I'm an expert in 🌈 Design Systems, 🛠 Frontend Architecture and 🚀 Web Co
 - [Cube Cloud](https://cubecloud.dev) - Deploy, optimize and scale Cube.js applications. **UI, UX, Frontend** / **React, Cube Cloud UIKit, AntD**
 - [Cube Cloud UIKit](https://cube-uikit-storybook.netlify.app/) WIP - UIKit for Cube Cloud. **UI, Frontend** / **React, React Aria, Numl utils**
 
-### Social links
+### Follow me 👋
 
-- [Twitter](https://twitter.com/tenphi)
-- [Facebook](https://facebook.com/tenphi)
-- [LinkedIn](https://linkedin.com/in/tenphi)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/tenphi) 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://linkedin.com/in/tenphi/)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/tenphi/)
+[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2)](https://facebook.com/tenphi/)
 
 ### GitHub Stats
 
