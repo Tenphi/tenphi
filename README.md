@@ -22,7 +22,7 @@ I'm an expert in 🌈 Design Systems, 🛠 Frontend Architecture and 🚀 Web Co
 - [Cube Dev Landing](https://cube.dev) - Landing for Cube Dev company. **UI/Frontend** / **React, Next.js, Numl.Design, Cube Dev Landing UIKit**
 - [Cube Dev Landing UIKit](https://cubejs-uikit.vercel.app/) - UIKit for Cube Dev Landing. **UI, Frontend** / **React, Numl.Design**
 - [Cube Cloud](https://cubecloud.dev) - Deploy, optimize and scale Cube.js applications. **UI, UX, Frontend** / **React, Cube Cloud UIKit, AntD**
-- [Cube Cloud UIKit](https://cube-uikit-storybook.netlify.app/) - UIKit for Cube Cloud. **UI, Frontend** / **React, React Aria, Numl utils**
+- [Cube Cloud UIKit](https://cube-uikit-storybook.netlify.app/) WIP - UIKit for Cube Cloud. **UI, Frontend** / **React, React Aria, Numl utils**
 
 ### Social links
 
