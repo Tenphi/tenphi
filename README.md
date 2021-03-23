@@ -15,13 +15,14 @@ I'm an expert in 🌈 Design Systems, 🛠 Frontend Architecture and 🚀 Web Co
 
 ### Portfolio
 
-- [Subtly.Media](https://subtly.media) - Smart subtitles for Netflix. **Idea, UI, UX, Frontend, Backend**, **React**
-- [Sellerscale](https://sellerscale.com) - Smarter financial management for Amazon sellers. **UI, UX, Frontend**, **Vue, Numl.Design**
-- [Sellerscale profitability calculator](https://chrome.google.com/webstore/detail/sellerscale-profitability/jfdcmkcpbmiddlfkbifgjfngdckbajfl) - Profitability calculator for Amazon sellers. **UI, UX, Frontend**, **Svelte, Numl.Design**
-- [Cube Dev Landing](https://cube.dev) - Landing for Cube Dev company. **UI/Frontend**, **React, Next.js, Numl.Design, Cube Dev Landing UIKit**
-- [Cube Dev Landing UIKit](https://cubejs-uikit.vercel.app/) - UIKit for Cube Dev Landing. **UI, Frontend**, **React, Numl.Design**
-- [Cube Cloud](https://cubecloud.dev) - Deploy, optimize and scale Cube.js applications. **UI, UX, Frontend**, **React, Cube Cloud UIKit, AntD**
-- [Cube Cloud UIKit](https://cube-uikit-storybook.netlify.app/) - UIKit for Cube Cloud. **UI, Frontend**, **React, React Aria, Numl utils**
+- [Numl.Design Website](https://numl.design) - Landing, Storybook, Handbook, Documentation, REPL for Numl.Design project. **UI, UX, Frontend, Backend** / **Vue, Nuxt.js, Numl.Design**
+- [Subtly.Media](https://subtly.media) - Smart subtitles for Netflix. **Idea, UI, UX, Frontend, Backend** / **React**
+- [Sellerscale](https://sellerscale.com) - Smarter financial management for Amazon sellers. **UI, UX, Frontend** / **Vue, Numl.Design**
+- [Sellerscale profitability calculator](https://chrome.google.com/webstore/detail/sellerscale-profitability/jfdcmkcpbmiddlfkbifgjfngdckbajfl) - Profitability calculator for Amazon sellers. **UI, UX, Frontend** / **Svelte, Numl.Design**
+- [Cube Dev Landing](https://cube.dev) - Landing for Cube Dev company. **UI/Frontend** / **React, Next.js, Numl.Design, Cube Dev Landing UIKit**
+- [Cube Dev Landing UIKit](https://cubejs-uikit.vercel.app/) - UIKit for Cube Dev Landing. **UI, Frontend** / **React, Numl.Design**
+- [Cube Cloud](https://cubecloud.dev) - Deploy, optimize and scale Cube.js applications. **UI, UX, Frontend** / **React, Cube Cloud UIKit, AntD**
+- [Cube Cloud UIKit](https://cube-uikit-storybook.netlify.app/) - UIKit for Cube Cloud. **UI, Frontend** / **React, React Aria, Numl utils**
 
 ### Social links
 
