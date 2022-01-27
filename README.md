@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm [Andrey](https://tenphi.me)
 
-My name is Andrey. I'm a UX/UI Engineer at [Cube.js](https://cube.dev).
+My name is Andrey. I'm a Lead UX/UI Engineer at [Cube Dev](https://cube.dev).
 I'm an expert in 🌈 Design Systems, 🛠 Frontend Architecture and 🚀 Web Components.
 
 [![](https://komarev.com/ghpvc/?username=tenphi&color=blue&label=Profile%20Views)](https://github.com/tenphi)
