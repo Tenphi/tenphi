@@ -9,7 +9,7 @@ I'm an expert in 🌈 Design Systems, 🛠 Frontend Architecture and 🚀 Web Co
 ### My personal projects
 
 - [Numl.Design](https://github.com/numldesign/numl) - A Design System and UI Framework based on runtime CSS generation. It includes probably the best Theme Generator with the dark scheme and high the contrast mode. [numl.design →](https://numl.design)
-- [CSS Theme Generator](https://github.com/numldesign/theme-generator) - A tool to generate CSS Themes with the dark scheme and high the contrast mode. [numl.design/theme-generator →](https://numl.design/theme-generator)
+- [CSS Theme Generator](https://github.com/tenphi/css-theme-generator) - A tool to generate CSS Themes with the dark scheme and high the contrast mode. [tenphi.me/css-theme-generator →](https://tenphi.me/css-theme-generator)
 - [tenphi.me](https://github.com/tenphi/tenphi.me) - My personal website. [tenphi.me →](https://tenphi.me)
 - [More projects](https://github.com/tenphi?tab=repositories)
 
